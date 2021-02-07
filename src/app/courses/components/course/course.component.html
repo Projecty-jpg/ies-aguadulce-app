@@ -1,0 +1,7 @@
+<div>
+  <a [routerLink]="['/courses']">Volver</a>
+</div>
+<div *ngIf="course">
+  <h1>{{ course.name }}</h1>
+  <p>{{ course.description }}</p>
+</div>

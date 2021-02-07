@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Desarrollo de Aplicaciones Web",
+    "description": "Curso para el aprendizaje del desarrollo de aplicaciones web con tecnologías como Javascript o PHP"
+  },
+  {
+    "id": 2,
+    "name": "Desarrollo de Aplicaciones Multiplataforma",
+    "description": "Curso para el aprendizaje del desarrollo de aplicaciones multiplataforma para escritorio y dispositivos móviles"
+  }
+]
